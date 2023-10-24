@@ -14,7 +14,7 @@ public class PROYECTO01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ejemplo de JAVA manejado desde GitHub versionado a traves de Git creado por PaulaRivas10");
+        System.out.println("Ejemplos de JAVA manejado desde GitHub versionado a traves de Git creado por PaulaRivas10");
     }
     
 }
